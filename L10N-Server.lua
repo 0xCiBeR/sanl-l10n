@@ -90,5 +90,8 @@ L10N = {
 	FIREFIGHTER_VEHICLE_FIRE = {
 		en_US = "* A vehicle has exploded in %s, %s.",
 		nl = "* Er is een voertuig geëxplodeerd in %s, %s."
+	},
+	FIREFIGHTER_EXTINGUISH = {
+		en_US = "* You have been paid $100 for extinguishing the fire."
 	}
 }
