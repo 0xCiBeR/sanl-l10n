@@ -47,46 +47,6 @@ L10N = {
 		en_US = "* You have been paid $%s as a reward for playing on the server for at least 50 minutes.",
 		nl = "* Je hebt %s betaald gekregen als een beloning voor het spelen op deze server voor minimaal 50 minuten."
 	},
-	PLAYTIME_MONTH = {
-		en_US = "month",
-		nl = "maand"
-	},
-	PLAYTIME_MONTHS = {
-		en_US = "months",
-		nl = "maanden"
-	},
-	PLAYTIME_DAY = {
-		en_US = "day",
-		nl = "dag"
-	},
-	PLAYTIME_DAYS = {
-		en_US = "days",
-		nl = "dagen"
-	},
-	PLAYTIME_HOUR = {
-		en_US = "hour",
-		nl = "uur"
-	},
-	PLAYTIME_HOURS = {
-		en_US = "hours",
-		nl = "uren"
-	},
-	PLAYTIME_MINUTE = {
-		en_US = "minute",
-		nl = "minuut"
-	},
-	PLAYTIME_MINUTES = {
-		en_US = "minutes",
-		nl = "minuten"
-	},
-	PLAYTIME_SECOND = {
-		en_US = "second",
-		nl = "seconde"
-	},
-	PLAYTIME_SECONDS = {
-		en_US = "seconds",
-		nl = "seconden"
-	},
 	FIREFIGHTER_VEHICLE_FIRE = {
 		en_US = "* A vehicle has exploded in %s, %s.",
 		nl = "* Er is een voertuig geëxplodeerd in %s, %s."
