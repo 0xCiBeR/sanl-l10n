@@ -7,6 +7,7 @@ bg | Bulgarian
 cs | Czech
 de | German
 el | Greek
+en_US | English (United States)
 es | Spanish
 et | Estonian
 fr | French
